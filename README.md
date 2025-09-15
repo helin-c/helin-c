@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 
-I'm a **Mathematics & Computer Science** student at the University of Greenwich (First Class Honours) with a passion for **AI/ML**, **data science**, and building impactful solutions. Currently serving as a Lead Peer Mentor while exploring the fascinating intersection of mathematics and technology.
+I'm a **Mathematics & Computer Science** graduate at the University of Greenwich (First Class Honours) with a passion for **AI/ML**, **data science**, and building impactful solutions. Currently serving as a Lead Peer Mentor while exploring the fascinating intersection of mathematics and technology.
 
 <div align="left">
   
@@ -29,10 +29,10 @@ I'm a **Mathematics & Computer Science** student at the University of Greenwich 
 ```text
 Python      ████████████████████████████████████████   100%
 Java        ████████████████████████████████████       90%
-Kotlin      ████████████████████████████               75%
+Kotlin      █████████████████████                      50%
 R           ████████████████████████████               75% 
 SQL         ████████████████████████████████           80%
-Scala       ████████████████████████                   70%
+Scala       █████████████████████                      50%
 ```
 
 </details>
