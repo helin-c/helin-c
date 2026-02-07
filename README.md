@@ -1,246 +1,112 @@
-# Hi there, I'm Helin Cinko! 👋
+# Hi there, I'm Helin! 👋
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mathematics+%26+Computer+Science+;First+Class+Honours+Graduate;Problem+Solver+%7C+Innovation+Driven)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mathematics+%26+Computer+Science+;Aspiring+Data+Analyst;Data+Driven+Problem+Solver)](https://git.io/typing-svg)
   
 </div>
 
 ## 🎓 About Me
 
-I'm a **Mathematics & Computer Science** graduate at the University of Greenwich (First Class Honours) with a passion for **AI/ML**, **data science**, and building impactful solutions. Currently serving as a Lead Peer Mentor while exploring the fascinating intersection of mathematics and technology.
+I'm a **Mathematics & Computer Science** graduate with First Class Honours, passionate about **data analysis**, **business intelligence**, and **data-driven decision making**. Currently seeking opportunities to apply analytical skills to solve real-world business problems.
 
 <div align="left">
   
 - 🌍 Based in London, UK
-- 🎯 Specializing in AI/ML, data analysis, and full-stack development  
-- 🌟 International experience from studying in Seoul, South Korea
+- 🎯 Aspiring Data Analyst with focus on data visualization, statistical analysis, and business intelligence
+- 📊 Proficient in Python, SQL, R, and data visualization tools
 - 💡 Always eager to learn new technologies and tackle challenging problems
-- 📚 First Class Honours student graduating in 2025
+- 📚 First Class Honours graduate with strong analytical foundation
 
 </div>
 
 ## 🛠️ Tech Stack
 
 <details>
-<summary><b>Programming Languages</b></summary>
+<summary><b>Data Analysis & Programming</b></summary>
 <br>
 
 ```text
 Python      ████████████████████████████████████████   100%
-Java        ████████████████████████████████████       90%
-Kotlin      █████████████████████                      50%
-R           ████████████████████████████               75% 
 SQL         ████████████████████████████████           80%
-Scala       █████████████████████                      50%
+R           ████████████████████████████               75% 
+Pandas      ████████████████████████████████           85%
+Matplotlib/Seaborn █████████████████████████████       85%
+Tableau/Power BI   ███████████████████████             75%
 ```
 
-</details>
+</details><p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> </p><p align="center"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+📊 Data Projects
+<table> <tr> <td width="50%">
+🏠 House Price Prediction & Analysis
+<div align="center"> <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/ML-Regression-blue?style=for-the-badge" /> </div>
+Tech Stack: Python Scikit-learn Pandas Matplotlib
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+End-to-end data analysis project:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-</p>
+🎯 Predictive modeling using ensemble methods
 
-## 🚀 Featured Projects
+🔧 Feature engineering and data preprocessing
 
-<table>
-<tr>
-<td width="50%">
+📊 Comprehensive EDA and visualization
 
-### 🤖 AI-Powered Student Affairs Email Agent
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Impact-High-red?style=for-the-badge" />
-</div>
+📈 Model evaluation and performance metrics
 
-**Tech Stack:** `N8N` `OpenAI` `Slack`
+Skills: Data Cleaning, Feature Engineering, Predictive Modeling, Data Visualization
+
+</td> <td width="50%">
+📈 Big Data & Network Analysis
+<div align="center"> <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data-Viz-orange?style=for-the-badge" /> </div>
+Tech Stack: Python NetworkX Matplotlib Seaborn
+
+Comprehensive data analysis including:
+
+🗺️ Interactive heatmaps & visualizations
+
+🌐 Social network analysis and pattern recognition
+
+📈 Time-series analysis and trend identification
+
+📊 Statistical analysis of hotel booking patterns
+
+Focus: Pattern recognition, network analysis, time-series forecasting
+
+</td> </tr> <tr> <td width="50%">
+🤖 AI-Powered Student Affairs Analysis
+<div align="center"> <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Automation-Workflow-red?style=for-the-badge" /> </div>
+Tech Stack: Python N8N OpenAI Data Analysis
 
 Built an intelligent workflow that:
-- 📧 Automatically classifies student emails
-- ⚡ Drafts responses in minutes instead of days
-- 📈 Improved staff efficiency by 90%
 
-**Impact:** Transformed student support response times
+📧 Automated classification of student emails
 
-</td>
-<td width="50%">
+📊 Analyzed response patterns and efficiency metrics
 
-### 🏠 House Price Prediction
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ML-Regression-blue?style=for-the-badge" />
-</div>
+⚡ Reduced response time by 90%
 
-**Tech Stack:** `Python` `Scikit-learn` `Pandas`
+📈 Generated performance analytics for staff
 
-Advanced ML pipeline featuring:
-- 🎯 Ensemble methods for enhanced accuracy
-- 🔧 Feature engineering techniques  
-- 📊 Comprehensive model evaluation
+Impact: Data-driven process improvement with measurable results
 
-**Result:** Achieved high prediction accuracy
+</td> <td width="50%">
+🔍 Data Structures & Algorithm Analysis
+<div align="center"> <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Algorithm-MST-yellow?style=for-the-badge" /> </div>
+Tech Stack: Kotlin Python Algorithm Design
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Telecoms network optimization project:
 
-### 📊 Big Data & Network Analysis
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data-Viz-orange?style=for-the-badge" />
-</div>
+🌳 Minimum Spanning Tree computation for network optimization
 
-**Tech Stack:** `Python` `NetworkX` `Matplotlib`
+⚡ Performance analysis of different algorithms
 
-Comprehensive analysis including:
-- 🗺️ Interactive heatmaps & visualizations
-- 🌐 Social network analysis
-- 📈 Time-series data exploration
+📊 Complexity analysis and efficiency metrics
 
-**Focus:** Hotel booking patterns & network topology
+💻 Implementation of Prim's Algorithm
 
-</td>
-<td width="50%">
+Skills: Algorithm optimization, complexity analysis, performance benchmarking
 
-### 🔐 Face Blurring Website
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Privacy-Focused-purple?style=for-the-badge" />
-</div>
-
-**Tech Stack:** `JavaScript` `HTML/CSS` `OpenCV`
-
-Privacy-first web application:
-- 👤 Automatic face detection
-- 🔒 Real-time image processing
-- ✅ GDPR compliance features
-
-**Mission:** Protecting user privacy through technology
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 📱 Telecoms Network Optimization (Kotlin)
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Algorithm-MST-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Language-Kotlin-blue?style=for-the-badge" />
-</div>
-
-**Sophisticated CLI Application** implementing Prim's Algorithm for Minimum Spanning Tree computation
-
-**Key Features:**
-- 🌳 Efficient MST computation for network optimization
-- ⚠️ Robust error handling and validation
-- 📁 Flexible data loading from multiple sources
-- 💻 Clean command-line interface
-
-**Technical Achievement:** Optimized algorithm performance for large-scale telecom networks
-
-</td>
-</tr>
-</table>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=helin-c&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=helin-c&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helin-c&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=helin-c&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| Focus Area | Description | Progress |
-|------------|-------------|----------|
-| 🔬 **Advanced ML/AI** | Exploring deep learning & neural networks | `████████░░` 80% |
-| 📊 **Big Data Analytics** | Mastering data visualization & analysis | `███████░░░` 70% |
-| 🌐 **Full-Stack Development** | Building modern web applications | `██████░░░░` 60% |
-| 👥 **Leadership & Mentoring** | Developing teaching & mentorship skills | `█████████░` 90% |
-
-</div>
-
-## 🏆 Experience & Leadership
-
-<div align="center">
-  
-  ```mermaid
-  timeline
-    title My Professional Journey
-    
-    2018-2019 : Oxfam Volunteer
-             : Customer Service & Communication
-             
-    2019     : Willmott Dixon
-             : Office Assistant & Project Exposure
-             
-    2022     : Mako Trading
-             : Summer Intern in Financial Markets
-             
-    2022-2025: University Ambassador
-             : Student Recruitment & Event Management
-             
-    2023-2024: IntoUniversity Mentor
-             : Academic & Social Support for Young People
-             
-    2024-Present : Lead Peer Mentor
-                 : Training & Performance Management
-  ```
-  
-</div>
-
-### 🌟 Key Achievements
-
-<table>
-<tr>
-<th width="50%">Leadership Impact</th>
-<th width="50%">Technical Excellence</th>
-</tr>
-<tr>
-<td>
-
-🎯 **Led training programs** for new peer mentors  
-📊 **Tracked performance** of 10+ students using Excel  
-🎤 **Delivered presentations** to senior staff at Mako  
-👥 **Supported 10-17 year olds** in academic development  
-📈 **Improved student satisfaction** through AI automation  
-
-</td>
-<td>
-
-🤖 **Built AI workflows** reducing response time by 90%  
-📱 **Developed mobile-first** web applications  
-🔍 **Implemented computer vision** for privacy protection  
-🌳 **Optimized network algorithms** for telecom efficiency  
-📊 **Analyzed big data** with advanced visualization  
-
-</td>
-</tr>
-</table>
-
-## 🌐 Let's Connect!
+</td> </tr> </table>
+ 🌐 Let's Connect!
 
 <div align="center">
 
@@ -252,46 +118,11 @@ Privacy-first web application:
 
 </div>
 
----
-
 <div align="center">
 
-### 🌟 Fun Facts About Me
+## 💭 Data Philosophy
 
-</div>
-
-<div align="center">
-  
-| 🇰🇷 **Seoul Adventure** | 🗣️ **Multilingual** | 🎯 **Leadership** |
-|:---:|:---:|:---:|
-| Completed leadership course in Seoul, South Korea | Native in English & Turkish | Training next generation of mentors |
-
-</div>
-
-<details>
-<summary><b>📚 Academic Journey</b></summary>
-
-### University of Greenwich (2022-2025)
-- **Degree:** BSc Hons Mathematics & Computer Science
-- **Classification:** First Class Honours
-- **Study Abroad:** Dongguk University, Seoul (2024)
-
-**Key Modules:**
-- Algorithms and Data Structures
-- Advanced Programming
-- Introduction to Artificial Intelligence
-- Machine Learning
-- Information Visualisation and Big Data
-- Coding and Cryptography
-- Calculus and Mathematical Analysis
-
-</details>
-
-<div align="center">
-
-## 💭 Philosophy
-
-*"Passionate about using technology to solve real-world problems and make a positive impact on communities around me."*
+*"Turning raw data into actionable insights to drive informed decision-making and create tangible business value."*
 
 ### 🎊 Thank you for visiting my profile!
 
@@ -299,8 +130,9 @@ Privacy-first web application:
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://github.com/helincinko/helincinko/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
+🎯 Looking For
+Data Analyst, Business Intelligence Analyst, or Data-focused roles where I can apply my analytical skills to solve real-world problems.
+
+</div> 
